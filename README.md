@@ -19,3 +19,7 @@ Key Activities and Outcomes:
 -  Disaster Recovery Simulation: Demonstrated end-to-end restoration from backup files, validating schema accuracy and row-level data recovery
 -  Integrity Testing: Compared pre- and post-restore datasets to ensure no data loss, corruption, or type mismatch during recovery
 This task enhanced my skills in preventive database maintenance, real-time recovery execution, and scripting for automation—all critical for maintaining data reliability in enterprise systems.
+
+# OUTPUT
+
+<img width="1805" height="826" alt="Image" src="https://github.com/user-attachments/assets/65bc9263-1db1-4ae1-b022-4198d47010fe" />
